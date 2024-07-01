@@ -1,0 +1,26 @@
+.weather{
+    font-size: 24px;
+}
+section{
+    background-image: url(../banner.png);
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
+.daraga{
+    font-size: 90px;
+}
+.item{
+    background-color: #32354496;
+}
+.item2{
+    background-color: #262936;
+}
+.item3{
+    background-color: #3235448f;
+}
+.row{
+    top: 30%;
+    left: 10%;
+    width: 80%;
+}
